@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+@media screen and (min-width: 1473px) {
+    html {
+      font-size: 2rem; /* equivalent to 8px */
+      font-family: 'Open Sans', sans-serif;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    html {
+      font-size: 1rem; /* equivalent to 8px */
+      font-family: 'Open Sans', sans-serif;
+    }
+  }
